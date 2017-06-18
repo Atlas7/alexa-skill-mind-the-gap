@@ -7,749 +7,261 @@ module.exports = {
      */
     "QUESTIONS_EN_GB" : [
         {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
-            ]
-        },
-        {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
-            ]
-        },
-        {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be. ": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
-            ]
-        },
-        {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
+            "In what year was the Jubilee Line officially opened?": [
                 "1979",
+                "1986",
+                "1997",
                 "2000",
-                "1956"
+                "2005",
+                "1972"
             ]
         },
         {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
+            "On a tube map, what is the color of the Jubilee Line?": [
+                "silver",
+                "black",
+                "red",
+                "orange",
+                "yellow",
+                "green",
+                "blue",
+                "brown"
             ]
         },
         {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
+            "How many stops are there on the Jubilee Line?": [
+                "27",
+                "19",
+                "15",
+                "23",
+                "32",
+                "38",
+                "45"
             ]
         },
         {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
+            "There is only one Tube station which does not have any letters of the word 'mackerel' in it. Which is it?": [
+                "St John's Wood",
+                "Canary Wharf",
+                "Stratford",
+                "Westminster",
+                "Bond Street",
+                "South Kensignton",
+                "Oxford Street"
             ]
         },
         {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
+            "What is the average speed on the Underground including station stops?": [
+                "20 miles per hour ",
+                "10 miles per hour",
+                "15 miles per hour",
+                "25 miles per hour",
+                "30 miles per hour",
+                "5 miles per hour",
+                "35 miles per hour"
             ]
         },
         {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
+            "Which was the busiest tube station in year 2015?": [
+                "Waterloo",
+                "Victoria",
+                "Oxford Circus",
+                "King's Cross",
+                "Charing Cross",
+                "Canary Wharf",
+                "Stratford"
             ]
         },
         {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
+            "Which was the busiest tube station in year 2009?": [
+                "Victoria",
+                "Waterloo",
+                "Oxford Circus",
+                "King's Cross",
+                "Charing Cross",
+                "Canary Wharf",
+                "Stratford"
             ]
         },
         {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
+            "Which was the busiest tube station in year 2014?": [
+                "Oxford Circus",
+                "Victoria",
+                "Waterloo",
+                "King's Cross",
+                "Charing Cross",
+                "Canary Wharf",
+                "Stratford"
             ]
         },
         {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
+            "Which was the busiest tube station in year 2005?": [
+                "King's Cross",
+                "Oxford Circus",
+                "Victoria",
+                "Waterloo",
+                "Charing Cross",
+                "Canary Wharf",
+                "Stratford"
             ]
         },
         {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
+            "Which line was converted into a secret fighter aircraft factory, that stretched for over two miles during Second World War?": [
+                "Central Line",
+                "Northern Line",
+                "Circle Line",
+                "Picadilly Line",
+                "District Line",
+                "Victoria Line",
+                "Bakerloo Line"
             ]
         },
         {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
+            "Which station has the shortest escalator, of only 4 meters vertical rise?": [
+                "Stratford",
+                "Greenford",
+                "Osterley",
+                "Sloan Square",
+                "Putney Bridge",
+                "Balham",
+                "Southwark"
             ]
         },
         {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
+            "The longest continuous tunnel is on which line?": [
+                "Northern Line",
+                "Bakerloo Line",
+                "Circle Line",
+                "Central Line",
+                "Jubilee Line",
+                "District Line",
+                "Victoria Line"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
+            "Which tube station is built on a massive plague pit, where more than 1000 bodies are buried?": [
+                "Aldgate",
+                "Whitechapel",
+                "Holborn",
+                "Westminster",
+                "Farringdon",
+                "Warren Street",
+                "Marylebone"
             ]
         },
         {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
+            "The longest journey without change is on which line, totalling 34.1 miles?": [
+                "Central Line from West Rulslip to Epping",
+                "Jubilee Line from Stanmore to Stratford",
+                "Northern Line from Morden to High Barnet",
+                "Victoria Line from Brixton to Walthamtow Central",
+                "Picadilly Line from Heathrow Terminal 5 to Cockfosters",
+                "Circle Line from Hammersmith to Edware Road",
+                "Hammersmith and City Line from Barking to Hammersmith"
             ]
         },
         {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
+            "Where is Dr Who's transport, the TARDIS, is located?": [
+                "Earl's Cort",
+                "South Kensington",
+                "London Bridge",
+                "Waterloo",
+                "Kings Cross",
+                "Canary Wharf",
+                "Wimbledon"
             ]
         },
         {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
+            "When was the tube officially opened?": [
+                "1863",
+                "1850",
+                "1875",
+                "1888",
+                "1892",
+                "1990",
+                "1995"
             ]
         },
         {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
+            "Only how much percentage of the Underground is actually in tunnels?": [
+                "45 percent",
+                "20 percent",
+                "33 percent",
+                "60 percent",
+                "85 percent",
+                "94 percent",
+                "100 percent"
             ]
         },
         {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
+            "The longest continuous tunnel is from East Finchley to Morden (via Bank). How long is it?": [
+                "28 kilometers",
+                "22 kilometers",
+                "34 kilometers",
+                "10 kilometers",
+                "37 kilometers",
+                "99 kilometers",
+                "150 kilometers"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
+            "How many escalators in the tube network in 2017?": [
+                "440",
+                "220",
+                "330",
+                "550",
+                "660",
+                "770",
+                "880"
             ]
         },
         {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
+            "Which tube station has the longest escalator of 60 meters?": [
+                "Angel",
+                "Kings Cross",
+                "Canary Wharf",
+                "London Bridge",
+                "Waterloo",
+                "Camden Town",
+                "Oxford Circus"
             ]
         },
         {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
+            "Which tube station has the most escalators?": [
+                "Waterloo",
+                "Canary Wharf",
+                "Victoria",
+                "Northwood",
+                "Heathrow Terminal 5",
+                "Burnt Oak",
+                "London Bridge"
             ]
         },
         {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
+            "Which tube station has the deepest lift shaft of 55.2 meters?": [
+                "Hampstead",
+                "Gloucester road",
+                "Coven Garden",
+                "Canada Water",
+                "Canary Wharf",
+                "London Bridge",
+                "Camden Town"
             ]
         },
         {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
+            "Which two tube stations are the closest to each other?": [
+                "Leicester Square to Coven Garden ",
+                "Canada Water to Canary Wharf",
+                "Bond Street to Oxford Circus",
+                "West Kensington to Barons Court",
+                "St. Paul's to Bank",
+                "Angel to Old Street",
+                "Charing Cross to Embankment"
             ]
         },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
     ],
     "QUESTIONS_EN_US" : [
-        {
-            "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in. ": [
-                "Japan",
-                "United States",
-                "Finland",
-                "Germany",
-                "Canada",
-                "Norway",
-                "France"
-            ]
-        },
-        {
-            "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pepper Minstix"
-            ]
-        },
-        {
-            "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be": [
-                "Girls",
-                "Boys",
-                "Girls and boys",
-                "No way to tell"
-            ]
-        },
-        {
-            "What do Reindeer eat?": [
-                "Lichen",
-                "Grasses",
-                "Leaves",
-                "Berries"
-            ]
-        },
-        {
-            "What of the following is not true?": [
-                "Caribou live on all continents",
-                "Both reindeer and Caribou are the same species",
-                "Caribou are bigger than reindeer",
-                "Reindeer live in Scandinavia and Russia"
-            ]
-        },
-        {
-            "In what year did Rudolph make his television debut?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Who was the voice of Rudolph in the 1964 classic?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Santa\'s reindeer named Donner was originally named what?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Who invented the story of Rudolph?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "In what location will you not find reindeer?": [
-                "North Pole",
-                "Lapland",
-                "Korvatunturi mountain",
-                "Finland"
-            ]
-        },
-        {
-            "What Makes Santa\'s Reindeer Fly?": [
-                "Magical Reindeer Dust",
-                "Fusion",
-                "Amanita muscaria",
-                "Elves"
-            ]
-        },
-        {
-            "Including Rudolph, how many reindeer hooves are there?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Santa only has one female reindeer. Which one is it?": [
-                "Vixen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "What was Rudolph\'s father\'s name?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?": [
-                "Black mud",
-                "Bag",
-                "Pillow case",
-                "Sock"
-            ]
-        },
-        {
-            "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-                "Dentist",
-                "Reindeer",
-                "Toy maker",
-                "Candlestick maker"
-            ]
-        },
-        {
-            "In the 1964 movie,what was the Bumble\'s one weakness?": [
-                "Could not swim",
-                "Always hungry",
-                "Candy canes",
-                "Cross eyed"
-            ]
-        },
-        {
-            "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-                "Peppermint",
-                "Gold",
-                "India",
-                "Polar Bears"
-            ]
-        },
-        {
-            "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-                "Square wheels",
-                "No Engine",
-                "Paint does not match",
-                "It does not toot"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the Jack in the Box?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-                "Storm",
-                "No snow",
-                "No toys",
-                "The Reindeer were sick"
-            ]
-        },
-        {
-            "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-                "Oink",
-                "Growl",
-                "Bark",
-                "Meow"
-            ]
-        },
-        {
-            "In the 1964 movie, what is the name of the prospector?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "How far do reindeer travel when they migrate?": [
-                "3000 miles",
-                "700 miles",
-                "500 miles",
-                "0 miles"
-            ]
-        },
-        {
-            "How fast can a reindeer run?": [
-                "48 miles per hour",
-                "17 miles per hour",
-                "19 miles per hour",
-                "14 miles per hour",
-                "52 miles per hour",
-                "41 miles per hour"
-            ]
-        }
     ],
     "QUESTIONS_DE_DE" : [
-        {
-            "Rentiere haben ein sehr dickes Fell. Wie viele Haare pro Quadratzentimeter haben sie?": [
-                "13,000",
-                "1,200",
-                "5,000",
-                "700",
-                "1,000",
-                "120,000"
-            ]
-        },
-        {
-            "Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in. ": [
-                "Japan",
-                "USA",
-                "Finnland",
-                "Deutschland",
-                "Kanada",
-                "Norwegen",
-                "Frankreich"
-            ]
-        },
-        {
-            "Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen. Wie heißt sie?": [
-                "Wunorse Openslae",
-                "Alabaster Snowball",
-                "Bushy Evergreen",
-                "Pfeffer Minstix"
-            ]
-        },
-        {
-            "Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle. ": [
-                "Weiblich",
-                "Männlich",
-                "Weiblich und männlich",
-                "Kann man nicht sagen"
-            ]
-        },
-        {
-            "Was essen Rentiere?": [
-                "Flechten",
-                "Gras",
-                "Blätter",
-                "Beeren"
-            ]
-        },
-        {
-            "Welche Aussage ist nicht richtig?": [
-                "Karibus leben auf allen Kontinenten",
-                "Karibus und Rentiere gehören derselben Gattung an ",
-                "Karibus sind größer als Rentiere",
-                "Rentiere leben in Skandinavien und Russland"
-            ]
-        },
-        {
-            "In welchem Jahr kam Rudolph ins Fernsehen?": [
-                "1964",
-                "1979",
-                "2000",
-                "1956"
-            ]
-        },
-        {
-            "Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?": [
-                "Billie Mae Richards",
-                "Burl Ives",
-                "Paul Soles",
-                "Lady Gaga"
-            ]
-        },
-        {
-            "Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?": [
-                "Montgomery Ward",
-                "Sears",
-                "Macys",
-                "Kmart"
-            ]
-        },
-        {
-            "Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?": [
-                "Dunder",
-                "Donny",
-                "Dweedle",
-                "Dreamy"
-            ]
-        },
-        {
-            "Wer hat die Geschichte von Rudolph erfunden?": [
-                "Robert May",
-                "Johnny Marks",
-                "Santa",
-                "J.K. Rowling"
-            ]
-        },
-        {
-            "Wo findest du keine Rentiere?": [
-                "Nordpol",
-                "Lappland",
-                "Korvatunturi-Berge",
-                "Finnland"
-            ]
-        },
-        {
-            "Warum können die Rentiere des Weihnachtsmanns fliegen?": [
-                "Magischer Staub der Rentiere",
-                "Fusion",
-                "Amanita muscaria",
-                "Elfen"
-            ]
-        },
-        {
-            "Wieviele Rentierhufe gibt es hier einschließlich Rudolph?": [
-                "36",
-                "24",
-                "16",
-                "8"
-            ]
-        },
-        {
-            "Der Weihnachtsmann hat nur ein weibliches Rentier. Wie heißt es?": [
-                "Blitzen",
-                "Clarice",
-                "Cupid",
-                "Cupid"
-            ]
-        },
-        {
-            "Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?": [
-                "Sam",
-                "Frosty",
-                "Burl",
-                "Snowy"
-            ]
-        },
-        {
-            "Wie hieß der Vater von Rudolph?": [
-                "Donner",
-                "Dasher",
-                "Blixen",
-                "Comet"
-            ]
-        },
-        {
-            "Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?": [
-                "Comet",
-                "Blixen",
-                "Donner",
-                "Dasher"
-            ]
-        },
-        {
-            "Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?": [
-                "Fireball",
-                "Clarice",
-                "Jumper",
-                "Vixen"
-            ]
-        },
-        {
-            "Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?": [
-                "Schwarzer Schlamm",
-                "Sack",
-                "Kissenbezug",
-                "Socke"
-            ]
-        },
-        {
-            "Was möchte die Misfit-Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?": [
-                "Zahnarzt",
-                "Rentier",
-                "Spielzeugmacher",
-                "Kerzenmacher"
-            ]
-        },
-        {
-            "Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?": [
-                "Konnte nicht schwimmen",
-                "War immer hungrig",
-                "Zuckerstangen",
-                "Schielte"
-            ]
-        },
-        {
-            "Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?": [
-                "Pfefferminz",
-                "Gold",
-                "Indien",
-                "Polarbären"
-            ]
-        },
-        {
-            "Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?": [
-                "Viereckige Räder",
-                "Keine Dampfmaschine",
-                "Farbe stimmt nicht",
-                "Pfeift nicht"
-            ]
-        },
-        {
-            "Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?": [
-                "Charlie",
-                "Sam",
-                "Billy",
-                "Jack"
-            ]
-        },
-        {
-            "Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?": [
-                "Sturm",
-                "Kein Schnee",
-                "Kein Spielzeug",
-                "Die Rentiere waren krank"
-            ]
-        },
-        {
-            "Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?": [
-                "Oink",
-                "Knurr",
-                "Wauwau",
-                "Miau"
-            ]
-        },
-        {
-            "Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?": [
-                "Yukon Cornelius",
-                "Slider Sam",
-                "Bumble",
-                "Jack"
-            ]
-        },
-        {
-            "Wie weit ziehen Rentiere auf ihren Wanderungen?": [
-                "4800 km",
-                "1100 km",
-                "800 km",
-                "0 km"
-            ]
-        },
-        {
-            "Wie schnell läuft ein Rentier?": [
-                "77 km pro Stunde",
-                "27 km pro Stunde",
-                "30 km pro Stunde",
-                "22 km pro Stunde",
-                "83 km pro Stunde",
-                "65 km pro Stunde"
-            ]
-        }
     ]
 };
