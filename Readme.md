@@ -1,9 +1,8 @@
 # Github Branches
 
-This repository contains the following branches:
+This repository contains the source code for the Alexa Skill "Mind the Gap". This repository is a modification of the original Alexa [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) tutorial.
 
-- master: this is a direct fork of the upstream Alexa repository "skill-sample-nodejs-trivia".
-- mind-the-gap: this branch is a teak of the master. A new app "Mind the Gap" submitted to the Alexa team for certification.
+Navigate to `/src` to view source codes.
 
 Followings are the original Alexa skill building instructions.
 
