@@ -1,3 +1,12 @@
+# Github Branches
+
+This repository contains the following branches:
+
+- master: this is a direct fork of the upstream Alexa repository "skill-sample-nodejs-trivia".
+- mind-the-gap: this branch is a teak of the master. A new app "Mind the Gap" submitted to the Alexa team for certification.
+
+Followings are the original Alexa skill building instructions.
+
 # Step-by-Step Guide to Build a Trivia Skill
 
 The template leverages [AWS Lambda](https://aws.amazon.com/lambda/), the [Alexa Skills Kit (ASK)](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit), and the [ASK SDK](https://developer.amazon.com/public/community/post/Tx213D2XQIYH864/Announcing-the-Alexa-Skills-Kit-for-Node-js), while providing the business logic, multiple language support, use cases, error handling and help functions for your skill. You just need to come up with a content idea (like "Santa Claus Trivia"), plug in your content and edit the sample provided (we walk you through how it’s done). It's a valuable way to quickly learn the end-to-end process for building and publishing an Alexa skill.
@@ -256,7 +265,7 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
  4. Update your questions. The questions.js file contains all the questions that will be mapped to the custom slots you defined earlier in your skill. Locate the directory you downloaded earlier, and open the questions.js file with your favorite text editor. Look for corresponding language question list by "Ctrl-F" **QUESTIONS_EN_US** for English(U.S.), **QUESTIONS_EN_GB** for English(U.K.) and **QUESTIONS_DE_DE** for German. Each language block contains a list of questions. Here is a snippet of code for reference.
 ![](https://s3.amazonaws.com/lantern-code-samples-images/trivia/questions.PNG)
 Simply replace the reindeer questions with yours in current language.
-**Note**: 
+**Note**:
 * The first answer should be the correct answer. The script logic will randomize the questions and answers for you. You'll need at least four answers for each question, but more will increase user engagement.
 * You’ll need a bare minimum of seven question-and-answer sets, but we recommend at least 20. The best user experiences will have 100 or more.
 
@@ -265,7 +274,7 @@ Simply replace the reindeer questions with yours in current language.
  ![](https://s3.amazonaws.com/lantern-code-samples-images/trivia/changeAppId.PNG)
 
 
- 6. Copy the Application Id into the value of the APP_ID variable in index.js. 
+ 6. Copy the Application Id into the value of the APP_ID variable in index.js.
  ```JSON
  var APP_ID = undefined;  // TODO replace with your app ID.
  ```
